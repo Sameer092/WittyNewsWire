@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+
+.bg-light {
+  background-color: #ffffff; /* Replace #ffffff with the desired background color */
+}
