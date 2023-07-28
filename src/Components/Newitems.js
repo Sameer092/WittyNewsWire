@@ -38,7 +38,12 @@ const Newitems = (props) => {
             </small>
           </p>
 
-          <a href={newsUrl} target="_blank" rel="noreferrer" className={`btn ${props.mode === 'dark' ? 'btn-black' : 'btn-dark'}`} >
+          <a
+            href={newsUrl}
+            target="_blank"
+            rel="noreferrer"
+            className={`btn ${props.mode === 'dark' ? 'btn-black btn-dark-mode' : 'btn-dark'}`}
+          >
             Read More
           </a>
         </div>

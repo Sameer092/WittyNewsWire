@@ -64,5 +64,9 @@
   color: black;
 }
 
-
+.btn-dark-mode:hover {
+  /* Change the background color and text color as per your requirement */
+  background-color: black;
+  color: white;
+}
 
