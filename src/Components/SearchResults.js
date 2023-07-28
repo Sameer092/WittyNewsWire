@@ -4,12 +4,6 @@ import Spinner from './Spinner';
 import { useLocation } from 'react-router-dom';
 
 const SearchResults = (props) => {
-    // const capatilize = (word) => {
-    //     // Function to capitalize the first letter of a string
-    //     const lower = word.toLowerCase();
-    //     return lower.charAt(0).toUpperCase() + lower.slice(1);
-    // };
-
     const [articles, setArticles] = useState([]);
     const [loading, setLoading] = useState(true);
 
@@ -20,7 +14,7 @@ const SearchResults = (props) => {
         props.setProgress(10);
         let url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(
             searchQuery
-        )}&apiKey=beb83bdf637a41b38edda08dbcafd004`;
+        )}&apiKey=f358ed0ff318429e8280823192ba285c`;
         setLoading(true);
         let data = await fetch(url);
         props.setProgress(40);
@@ -43,6 +37,11 @@ const SearchResults = (props) => {
                 {`WittyNewsWire - Search Results for "${searchQuery}"`}
             </h1>
             {loading && <Spinner />}
+            {!loading && articles.length === 0 && (
+                <div className="text-center mt-5">
+                    <h3>No Result Found</h3>
+                </div>
+            )}
             <div className="container">
                 <div className="row">
                     {articles.map((element) => {
