@@ -55,3 +55,14 @@
 }
 
 
+.text-white.bg-black::placeholder {
+  color: white;
+}
+
+/* For 'light' mode */
+.text-black.bg-white::placeholder {
+  color: black;
+}
+
+
+
