@@ -53,7 +53,7 @@ const News = (props) => {
 
     return (
         < >
-            <h1 className="text-center" style={{ margin: '30px', marginTop: '90px' }}>{`WittyNewsWire - Top ${capatilize(props.category)} Headlines`}</h1>
+            <h1 className={`text-center ${props.mode === 'dark' ? 'text-white' : 'text-black'}`} style={{ margin: '30px', marginTop: '90px' }}>{`WittyNewsWire - Top ${capatilize(props.category)} Headlines`}</h1>
             {loading && <Spinner />}
             <InfiniteScroll
                 dataLength={articles.length}
@@ -65,7 +65,7 @@ const News = (props) => {
                     <div className="row">
                         {articles.map((element) => {
                             return <div className="col-md-4" key={element.url}>
-                                <Newitems title={element.title ? element.title : ""} description={element.description ? element.description : ""} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name} />
+                                <Newitems title={element.title ? element.title : ""} mode = {props.mode} description={element.description ? element.description : ""} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name} />
                             </div>
                         })}
                     </div>

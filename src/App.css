@@ -41,3 +41,17 @@
 .bg-light {
   background-color: #ffffff; /* Replace #ffffff with the desired background color */
 }
+
+
+.btn-black {
+  background-color: black;
+  color: white;
+}
+
+
+.btn-white {
+  /* background-color: dark; */
+  color: white;
+}
+
+
