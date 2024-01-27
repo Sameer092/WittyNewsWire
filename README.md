@@ -1,70 +1,117 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
+## News App | Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Battleship is a classic naval warfare game implemented in C#. Players can enjoy three different difficulty modes: Easy, Medium, and Hard. In the Easy mode, each player strategically hides two ships on the grid, while the Medium and Hard modes feature three and four hidden ships, respectively. The game offers versatile gameplay with both Player vs Player and Computer vs Player modes. Engage in thrilling battles with a friend, strategically hiding and hunting each other's fleets, or test your strategic prowess against the computer as you attempt to sink its hidden ships in single-player mode.
 
-## Available Scripts
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-In the project directory, you can run:
+## News App | Tools & Technology
 
-### `npm start`
+* <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=c%23&logoColor=white" />
+* <img src="https://img.shields.io/badge/Visual_Studio-563D7C?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## News App | Prerequisites
 
-### `npm test`
+These are the softwares you need to install before getting started.
+- Visual Studio
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm run build`
+## News App | Setup Instructions
+  
+1. Clone This Repository
+   ```sh
+   https://github.com/Sameer092/Battleship.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Open the Project in Visual Studio:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   * Launch Visual Studio.
+   * Select File > Open > Project/Solution.
+   * Navigate to the cloned repository directory and open the solution file (.sln).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Restore NuGet Packages:
 
-### `npm run eject`
+   * Once the project is open, right-click on the solution in the Solution Explorer.
+   * Choose Restore NuGet Packages to ensure that all required dependencies are downloaded.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Build and Run the Project:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   * Press Ctrl + Shift + B to build the project.
+   * Press F5 or select Debug > Start Debugging to run the Battleship game.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+5. Play the Game:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   * The game window should appear. Follow the on-screen instructions to place your ships and engage in naval warfare.
 
-## Learn More
+### Notes:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Ensure you have Visual Studio installed with support for C# development.
+* NuGet packages should be automatically restored, but if not, use the provided instructions.
+* Make sure to set the correct startup project before running the game.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Code Splitting
+## News App | Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-### Analyzing the Bundle Size
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Fork the Project
+2. Create your Feature Branch `git checkout -b feature/AmazingFeature`
+3. Commit your Changes `git commit -m 'Add some AmazingFeature'`
+4. Push to the Branch `git push origin feature/AmazingFeature`
+5. Open a Pull Request
 
-### Making a Progressive Web App
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## News App | Screenshots
 
-### Advanced Configuration
+## `Game-Module`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Startup Page
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Startup%20Page.png)
+### Rules
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Rules.png)
+### Credits
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Credits.png)
+### Game Modes
+![image](https://github.com/Sameer092/Battleship/blob/master/images/GameModes.png)
+### Easy Mode
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Easy%20Mode.png)
+### Medium Mode
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Medium%20Mode.png)
+### Hard Mode
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Hard%20Mode.png)
+### Shapes of Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Ship%20Shapes.png)
+### Remaining Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Total%20Ships.png)
+### Player Locate Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Hide%20the%20Ships.png)
+### Computer Guess Player Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/PC%20find%20my%20ships.png)
+### Player Guess Computer Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/I%20finding%20the%20PC%20Ships.png)
+### Result
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Result.png)
+### Player1 Locate Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%201%20locate%20ships.png)
+### Player2 Locate Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%202%20locate%20ships.png)
+### Player1 Guess Player2 Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%201%20finding%20ships.png)
+### Player2 Guess Player1 Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%202%20finding%20ships.png)
+### Result
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Result2.png)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+<p align="center"> © 2024 Muhammad Sameer, All Rights Reserved. </p>
+<p align="center">
+https://github.com/Sameer092
+</p>
