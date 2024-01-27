@@ -1,11 +1,11 @@
 <a name="readme-top"></a>
-## News App | Description
+## WittyNewsWire | Description
 
 WittyNewsWire is a dynamic News App built with React, JavaScript, HTML, CSS, and Bootstrap, providing users with up-to-date news from around the world. Stay informed effortlessly with a sleek, responsive design delivering news across diverse categories and countries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## News App | Tools & Technology
+## WittyNewsWire | Tools & Technology
 
 * <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
 * <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -16,14 +16,14 @@ WittyNewsWire is a dynamic News App built with React, JavaScript, HTML, CSS, and
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## News App | Prerequisites
+## WittyNewsWire | Prerequisites
 
 These are the softwares you need to install before getting started.
 - Visual Studio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## News App | Setup Instructions
+## WittyNewsWire | Setup Instructions
   
 1. Clone This Repository
    ```sh
@@ -57,7 +57,7 @@ These are the softwares you need to install before getting started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## News App | Contributing
+## WittyNewsWire | Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -72,7 +72,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## News App | Screenshots
+## WittyNewsWire | Screenshots
 
 ## `Game-Module`
 
