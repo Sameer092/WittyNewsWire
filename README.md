@@ -19,7 +19,8 @@ WittyNewsWire is a dynamic News App built with React, JavaScript, HTML, CSS, and
 ## WittyNewsWire | Prerequisites
 
 These are the softwares you need to install before getting started.
-- Visual Studio
+- Visual Studio code
+- NPM
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
