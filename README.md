@@ -52,6 +52,7 @@ These are the softwares you need to install before getting started.
  * Make sure Visual Studio Code is set up for JavaScript and React development.
  * Customize the app by modifying the React components, styles, and integrating additional features.
  * For production deployment, consider optimizing the build using:
+   
    ```sh
    npm run build
 
