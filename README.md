@@ -1,14 +1,18 @@
 <a name="readme-top"></a>
 ## News App | Description
 
-Battleship is a classic naval warfare game implemented in C#. Players can enjoy three different difficulty modes: Easy, Medium, and Hard. In the Easy mode, each player strategically hides two ships on the grid, while the Medium and Hard modes feature three and four hidden ships, respectively. The game offers versatile gameplay with both Player vs Player and Computer vs Player modes. Engage in thrilling battles with a friend, strategically hiding and hunting each other's fleets, or test your strategic prowess against the computer as you attempt to sink its hidden ships in single-player mode.
+WittyNewsWire is a dynamic News App built with React, JavaScript, HTML, CSS, and Bootstrap, providing users with up-to-date news from around the world. Stay informed effortlessly with a sleek, responsive design delivering news across diverse categories and countries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## News App | Tools & Technology
 
-* <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=c%23&logoColor=white" />
-* <img src="https://img.shields.io/badge/Visual_Studio-563D7C?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+* <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
+* <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+* <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+* <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+* <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+* <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
