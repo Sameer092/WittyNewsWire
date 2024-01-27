@@ -14,7 +14,7 @@ const SearchResults = (props) => {
         props.setProgress(10);
         let url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(
             searchQuery
-        )}&apiKey=f358ed0ff318429e8280823192ba285c`;
+        )}&apiKey=beb83bdf637a41b38edda08dbcafd004`;
         setLoading(true);
         let data = await fetch(url);
         props.setProgress(40);

@@ -4,7 +4,7 @@ const Newitems = (props) => {
   const { title, description, imageUrl, newsUrl, author, date, source } = props;
   const [imageError, setImageError] = useState(false);
 
-  // Function to handle image loading errors
+
   const handleImageError = () => {
     setImageError(true);
   };
@@ -20,11 +20,11 @@ const Newitems = (props) => {
             src={imageUrl}
             className="card-img-top"
             alt="..."
-            onError={handleImageError} // Handle image loading errors
+            onError={handleImageError} 
           />
         ) : (
           <img
-            src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/01/samsung-galaxy-s23-ultra-9.jpg" // Placeholder image URL
+            src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/01/samsung-galaxy-s23-ultra-9.jpg" 
             className="card-img-top"
             alt="Image not available"
           />
