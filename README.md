@@ -77,41 +77,21 @@ Don't forget to give the project a star! Thanks again!
 ## `App-Module`
 
 ### Landing Page
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Startup%20Page.png)
-### Rules
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Rules.png)
-### Credits
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Credits.png)
-### Game Modes
-![image](https://github.com/Sameer092/Battleship/blob/master/images/GameModes.png)
-### Easy Mode
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Easy%20Mode.png)
-### Medium Mode
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Medium%20Mode.png)
-### Hard Mode
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Hard%20Mode.png)
-### Shapes of Ships
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Ship%20Shapes.png)
-### Remaining Ships
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Total%20Ships.png)
-### Player Locate Ships
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Hide%20the%20Ships.png)
-### Computer Guess Player Ships
-![image](https://github.com/Sameer092/Battleship/blob/master/images/PC%20find%20my%20ships.png)
-### Player Guess Computer Ships
-![image](https://github.com/Sameer092/Battleship/blob/master/images/I%20finding%20the%20PC%20Ships.png)
-### Result
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Result.png)
-### Player1 Locate Ships
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%201%20locate%20ships.png)
-### Player2 Locate Ships
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%202%20locate%20ships.png)
-### Player1 Guess Player2 Ships
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%201%20finding%20ships.png)
-### Player2 Guess Player1 Ships
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%202%20finding%20ships.png)
-### Result
-![image](https://github.com/Sameer092/Battleship/blob/master/images/Result2.png)
+
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/1.png)
+
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/2.png)
+
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/22.png)
+
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/3.png)
+
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/4.png)
+
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/5.png)
+
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/11.png)
+
 
 [![Watch the video](https://img.youtube.com/vi/NdeHhGdiMeo/0.jpg)](https://www.youtube.com/watch?v=NdeHhGdiMeo)
 
