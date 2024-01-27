@@ -35,19 +35,23 @@ These are the softwares you need to install before getting started.
    cd news-app
 
 3. Install Dependencies:
+   ```sh
+   npm install
+   
+4. Start the Development Server:
+   ```sh
+   npm start
+   
+5. View the App:
 
-npm install
-Start the Development Server:
+   Open your web browser and visit http://localhost:3000 to view the News App.
 
-npm start
-View the App:
+### Notes:
 
-Open your web browser and visit http://localhost:3000 to view the News App.
-Notes:
-Ensure you have Node.js and npm installed on your machine.
-Make sure Visual Studio Code is set up for JavaScript and React development.
-Customize the app by modifying the React components, styles, and integrating additional features.
-For production deployment, consider optimizing the build using npm run build and deploying the generated files.
+ * Ensure you have Node.js and npm installed on your machine.
+ * Make sure Visual Studio Code is set up for JavaScript and React development.
+ * Customize the app by modifying the React components, styles, and integrating additional features.
+ * For production deployment, consider optimizing the build using npm run build and deploying the generated files.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
