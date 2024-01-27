@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 ## WittyNewsWire | Description
 
-WittyNewsWire is a dynamic News App built with React, JavaScript, HTML, CSS, and Bootstrap, providing users with up-to-date news from around the world. Stay informed effortlessly with a sleek, responsive design delivering news across diverse categories and countries.
+WittyNewsWire is a dynamic News App built with React, JavaScript, HTML, CSS, and Bootstrap, providing users with up-to-date news from around the world. Stay informed effortlessly with a sleek, responsive design delivering news across diverse categories(Business,Entertainment,General,Science,Technology,Sports,Health) and countries.Also there is search feature available in my news app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,27 +72,27 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## WittyNewsWire | Screenshots
+## WittyNewsWire | Snapshots
 
 ## `App-Module`
 
 ### Landing Page
-
 ![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/1.png)
-
+### Light Mode with Technology Headlines
 ![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/2.png)
-
+### Dark Mode with Search Feature
 ![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/22.png)
-
+### Entertainment Headlines
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/4.png)
+### Business Headlines
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/5.png)
+### Search Feature
+![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/11.png)
+### Sports Headlines
 ![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/3.png)
 
-![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/4.png)
 
-![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/5.png)
-
-![image](https://github.com/Sameer092/WittyNewsWire/blob/master/images/11.png)
-
-
+### 👉 Watch Video of my Website
 [![Watch the video](https://img.youtube.com/vi/NdeHhGdiMeo/0.jpg)](https://www.youtube.com/watch?v=NdeHhGdiMeo)
 
 
