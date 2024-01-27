@@ -54,7 +54,6 @@ These are the softwares you need to install before getting started.
  * For production deployment, consider optimizing the build using:
    ```sh
    npm run build
-   and deploying the generated files.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,9 +74,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## WittyNewsWire | Screenshots
 
-## `Game-Module`
+## `App-Module`
 
-### Startup Page
+### Landing Page
 ![image](https://github.com/Sameer092/Battleship/blob/master/images/Startup%20Page.png)
 ### Rules
 ![image](https://github.com/Sameer092/Battleship/blob/master/images/Rules.png)
@@ -113,6 +112,8 @@ Don't forget to give the project a star! Thanks again!
 ![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%202%20finding%20ships.png)
 ### Result
 ![image](https://github.com/Sameer092/Battleship/blob/master/images/Result2.png)
+
+[![Watch the video](https://img.youtube.com/vi/NdeHhGdiMeo/0.jpg)](https://www.youtube.com/watch?v=NdeHhGdiMeo)
 
 
 ---
