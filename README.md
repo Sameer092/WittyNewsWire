@@ -28,33 +28,26 @@ These are the softwares you need to install before getting started.
   
 1. Clone This Repository
    ```sh
-   https://github.com/Sameer092/Battleship.git
+   https://github.com/Sameer092/WittyNewsWire.git
 
-2. Open the Project in Visual Studio:
+2. Navigate to the Project Directory:
+   ```sh
+   cd news-app
 
-   * Launch Visual Studio.
-   * Select File > Open > Project/Solution.
-   * Navigate to the cloned repository directory and open the solution file (.sln).
+3. Install Dependencies:
 
-3. Restore NuGet Packages:
+npm install
+Start the Development Server:
 
-   * Once the project is open, right-click on the solution in the Solution Explorer.
-   * Choose Restore NuGet Packages to ensure that all required dependencies are downloaded.
+npm start
+View the App:
 
-4. Build and Run the Project:
-
-   * Press Ctrl + Shift + B to build the project.
-   * Press F5 or select Debug > Start Debugging to run the Battleship game.
-
-5. Play the Game:
-
-   * The game window should appear. Follow the on-screen instructions to place your ships and engage in naval warfare.
-
-### Notes:
-
-* Ensure you have Visual Studio installed with support for C# development.
-* NuGet packages should be automatically restored, but if not, use the provided instructions.
-* Make sure to set the correct startup project before running the game.
+Open your web browser and visit http://localhost:3000 to view the News App.
+Notes:
+Ensure you have Node.js and npm installed on your machine.
+Make sure Visual Studio Code is set up for JavaScript and React development.
+Customize the app by modifying the React components, styles, and integrating additional features.
+For production deployment, consider optimizing the build using npm run build and deploying the generated files.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
